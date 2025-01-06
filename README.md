@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tejaswini-Neereti
 - 👀 I’m interested in Exploring code
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on full stack developors
 - 📫 reach me on instagram @mylifeas_teju
 - 😄 Pronouns: She,Her
